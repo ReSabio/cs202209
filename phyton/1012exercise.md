@@ -1,4 +1,4 @@
-# 1012_HOMEWORK
+# 1012_HOMEWORK/EXERCISE
 
 # [Python - Access List Items](https://colab.research.google.com/gist/ReSabio/9e7751d3d45de3a65c9421d3f0697aaa/python-access-list-items.ipynb)
 
