@@ -206,10 +206,8 @@ Answer
 Python has a set of built-in methods that you can use on strings. Which method can converts string into lower case ?
 (A)capitalize()     (B) casefold()     (C) lower()  
 (D)expandtabs()
-```
 
 Answer: https://www.w3schools.com/python/python_ref_string.asp
-```
 ```
 ### 16.
 ```
