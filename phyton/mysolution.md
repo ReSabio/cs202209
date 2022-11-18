@@ -234,11 +234,11 @@ Which of the following statements is wrong?
 (B) Lists are created using square brackets 
 (C) List items are ordered, changeable, and allow duplicate values. 
 (D) Lists can not have items with the same value
-```
-```
-Answer
-```
 
+```
+Answer: https://www.w3schools.com/python/python_lists.asp
+```
+```
 ### 18.
 ```
 Which one of the codes will output
