@@ -31,7 +31,6 @@ Indentation refers to the spaces at the beginning of a code line.
 Where in other programming languages the indentation in code is for readability only, the indentation in Python is very important.
 Python uses indentation to indicate a block of code.
 ```
-
 ### 3.
 
 ```
@@ -40,6 +39,7 @@ Python has commenting capability for the purpose of in-code documentation. Comme
 ```
 
 ### 4.
+```
 Unpack a Collection:
 If you have a collection of values in a list, tuple etc. Python allows you to extract the values into variables. 
 fruits = ["apple", "banana", "cherry"]
