@@ -37,10 +37,11 @@ Python uses indentation to indicate a block of code.
 Python has commenting capability for the purpose of in-code documentation. Comments start with a  __________
 (A)A  (B) # (C) /  (D)&
 ```
+Answer: https://www.w3schools.com/python/python_syntax.asp
+Python has commenting capability for the purpose of in-code documentation.
+Comments start with a #, and Python will render the rest of the line as a comment:
 ```
-Answer
 ```
-
 ### 4.
 ```
 Unpack a Collection:
