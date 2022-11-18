@@ -349,7 +349,7 @@ def tri_recursion(k):
 What Is The Last Line Of The Output When tri_recursion(6) is executed? 
    (A) 6  (B) 10  (C) 15  (D) 21  (E) 28
 ```
-```
+
 Answer: https://www.w3schools.com/python/trypython.asp?filename=demo_recursion
 ```
 
