@@ -38,6 +38,7 @@ Python has commenting capability for the purpose of in-code documentation. Comme
 (A)A  (B) # (C) /  (D)&
 ```
 Answer: https://www.w3schools.com/python/python_syntax.asp
+```
 Python has commenting capability for the purpose of in-code documentation.
 Comments start with a #, and Python will render the rest of the line as a comment:
 ```
