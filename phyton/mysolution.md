@@ -264,10 +264,10 @@ Python has a set of built-in methods that you can use on dictionaries. Which sta
 (B) copy() will returns a copy of the dictionary 
 (C) items() will returns a list containing a tuple for each key value pair  
 (D) popitem()	will removes the last inserted key-value pair
-
+```
 Answer: https://www.w3schools.com/python/python_lists.asp
 ```
-
+```
 ### 20.
 ```
 Python supports the usual logical conditions from mathematics:
