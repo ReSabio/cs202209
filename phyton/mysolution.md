@@ -207,10 +207,10 @@ Python has a set of built-in methods that you can use on strings. Which method c
 (A)capitalize()     (B) casefold()     (C) lower()  
 (D)expandtabs()
 ```
-```
-Answer
-```
 
+Answer: https://www.w3schools.com/python/python_ref_string.asp
+```
+```
 ### 16.
 ```
 Python Booleans
