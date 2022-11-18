@@ -220,8 +220,9 @@ Which one of the following statements is wrong?
 (C) print(10 > 9) will output True  
 (D) print(10 = 9) will output True
 ```
+
+Answer: https://www.w3schools.com/python/python_booleans.asp
 ```
-Answer
 ```
 
 ### 17.
