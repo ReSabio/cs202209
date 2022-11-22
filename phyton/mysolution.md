@@ -6,7 +6,7 @@ What can Python do?
 (C)Python can connect to database systems. It can also read and modify files.
 (D)Python can be used to handle big data and perform complex mathematics.
 ```
-**Answer: https://www.w3schools.com/python/python_intro.asp**
+**Answer: A,B,C,D https://www.w3schools.com/python/python_intro.asp**
 
 ```
 What can Python do?
@@ -24,7 +24,7 @@ Python uses __________ to indicate a block of code
 (A) [] (B){}  (C) ()  (D) indentation
 
 ```
-**Answer: https://www.w3schools.com/python/python_syntax.asp**
+**Answer: D https://www.w3schools.com/python/python_syntax.asp**
 ```
 Python Indentation
 Indentation refers to the spaces at the beginning of a code line.
@@ -37,7 +37,7 @@ Python uses indentation to indicate a block of code.
 Python has commenting capability for the purpose of in-code documentation. Comments start with a  __________
 (A)A  (B) # (C) /  (D)&
 ```
-Answer: https://www.w3schools.com/python/python_syntax.asp
+**Answer: B https://www.w3schools.com/python/python_syntax.asp**
 ```
 Python has commenting capability for the purpose of in-code documentation.
 Comments start with a #, and Python will render the rest of the line as a comment:
