@@ -1,4 +1,6 @@
-### Midterms
+### BASIC PROGRAMMING MIDTERM EXAM PART 1
+###  4110E231 柯立丹
+
 # 1.
 
 ``` python
